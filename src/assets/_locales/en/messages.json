@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Tab Groups Simple Controller"
+  },
+  "extensionDescription": {
+    "message": "Supports automatic collapse or expand of tab groups on browser startup, and allow clicking to collapse or expand all groups"
+  },
+  "nothingTitle": {
+    "message": "Do nothing"
+  },
+  "expandTitle": {
+    "message": "Auto expand all groups"
+  },
+  "collapseTitle": {
+    "message": "Auto collapse all groups"
+  }
+}

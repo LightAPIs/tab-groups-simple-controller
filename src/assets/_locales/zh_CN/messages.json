@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "标签页分组简单控制器"
+  },
+  "extensionDescription": {
+    "message": "支持在浏览器启动时自动折叠或展开标签页分组，并允许点击折叠或展开所有分组"
+  },
+  "nothingTitle": {
+    "message": "什么都不做"
+  },
+  "expandTitle": {
+    "message": "自动展开所有分组"
+  },
+  "collapseTitle": {
+    "message": "自动折叠所有分组"
+  }
+}
